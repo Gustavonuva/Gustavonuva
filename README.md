@@ -17,15 +17,6 @@ Mobile and web engineer with 4 years building production apps shipped to the App
 
 ---
 
-<div>
-  <a href="https://github.com/Gustavonuva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavonuva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavonuva&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
-
-<br>
-
 <div style="display: inline_block">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
